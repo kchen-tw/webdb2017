@@ -10,7 +10,7 @@
 04 | R05546043 | 劉宏毅 | linkuron | skylocker06@yahoo.com.tw | 已發
 05 | B04705019 | 林楷翊 | kaiyee0 | kay21016@hotmail.com | 已發
 06 | B02902129 | 梁皓珽 | Hao-Ting | newstart1599@gmail.com | 已發
-07 | B04705021 | 沈品耀 | ndshen | andyshen1222@hotmail.com
+07 | B04705021 | 沈品耀 | ndshen | andyshen1222@hotmail.com| 已發
 08 | B03705028 | 陳星宇 | davidchen0310  | star5585043@gmail.com | 已發
 09 | B03502100 | 徐子秦 | knowhow866 | accidental001@gmail.com | 已發
 10 | B04705039 | 何昱辰 | chester11206 | chester11206@gmail.com | 已發
@@ -29,6 +29,6 @@
 ---
 
 ## 02班
-班別 | 學      號 | 姓名  | Azure 帳號 | Github 帳號 | 授權碼
+班別 | 學      號 | 姓名  |Github 帳號 | Azure 帳號 | 授權碼
 :--:|:----------:|:----:|:----:|:--------:|:--------:| :---:
-02班 | B03607036 | 張如嫻 | JoyChal | joych201517@gmail.com | | 已發
+02班 | B03607036 | 張如嫻 | JoyChal | joych201517@gmail.com | 已發
