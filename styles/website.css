@@ -1,0 +1,36 @@
+/* @import url(https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css); */
+@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css);
+@import url(navbar.css);
+
+section  {
+    width:100%;
+}
+h1 {
+  color: #2674BA;
+}
+h2 {
+  color: #0099CC;
+}
+h3 {
+  color: #F77A0B;
+}
+h4 {
+  color: #662D91;
+}
+h5 {
+  color: #444444;
+}
+th {
+  background-color: #2674BA;
+  color: white;
+}
+
+.book .book-summary, .book .book-body {
+    font-family: "Noto Sans TC", "Microsoft JhengHei UI", "Microsoft JhengHei", "PingFang TC", "Lantinghei TC", "Noto Sans CJK TC", "Microsoft YaHei UI", "Microsoft Yahei", "PingFang SC", "Lantinghei SC", "Hiragino Sans GB", "WenQuanYi Micro Hei", "WenQuanYi Zen Hei", "Noto Sans CJK SC", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    top: 60px;
+}
+
+.summary > li:nth-child(1), .summary > li:nth-child(2) {
+    display: none;
+}
+
