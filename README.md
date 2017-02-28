@@ -1,5 +1,4 @@
-# 網站資料庫程式設計 (Website Database Programming )
-#AAA
+# 網站資料庫程式設計 (Website Database Programming 
 
 # 基本資料
  項目 | 描述 
