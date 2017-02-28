@@ -3,10 +3,10 @@
 # 基本資料
  項目 | 描述 
 :-------:| --- 
- 課程編號 | CSX2003 
-  學分數  | 1學分 
- 課程類型 | 微課程 
- 授課老師 | 陳琨 (kchen [at] csie.org)
+課程編號 | CSX2003 
+學分數   | 1學分 
+課程類型 | 微課程 
+授課老師 | 陳琨 (kchen [at] csie.org)
 課程助教 | 夏維良 (r05922075 [at] ntu.edu.tw) <br> 林修平 (twedusuck [at] gmail.com) <br> 陳宣毅 (r03126005 [at] ntu.edu.tw)
 臉書社團 | https://www.facebook.com/groups/kchen.club
 讀書會 | 星期五晚上 (教室會在 3月6日公告)
