@@ -30,6 +30,7 @@
 24 | B03501044 | 謝伯徽 | Jeffery-Sheih	 | jeffery85616@gmail.com | 已發
 25 | R04943142 | 劉懿萱 | ubenz55555 | ubenz555@gmail.com | 已發
 26 | R05942033 | 林柏呈 | frank555076 | frank555076@hotmail.com | 已發
+27 | B03612017 | 林冠言 | irislin1006 | iris19132@hotmail.com | 已發
 
 
 
