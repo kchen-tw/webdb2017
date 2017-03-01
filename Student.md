@@ -24,11 +24,14 @@
 18 | R04522839 | 徐广昊 | GhostTomX | xuguanghaodlut@hotmail.com | 已發
 19 | R01228016 | 黃繼瑜 | kbjiyu | p98733211@gmail.com | 已發
 20 | R04223184 | 蔡承諺 | f5130052 | f5130052@gmail.com | 已發
+21 | R05922125 | 陳柏銓 | ntupcchen | paul830514@yahoo.com.tw | 已發
 
 
 ---
 
 ## 02班
-班別 | 學      號 | 姓名  |Github 帳號 | Azure 帳號 | 授權碼
+序號 | 學      號 | 姓名  |Github 帳號 | Azure 帳號 | 授權碼
 :--:|:----------:|:----:|:----:|:--------:|:--------:| :---:
-02班 | B03607036 | 張如嫻 | JoyChal | joych201517@gmail.com | 已發
+01 | B03607036 | 張如嫻 | JoyChal | joych201517@gmail.com | 已發
+02 | R05525093 | 楊婷如 | ivy28122966 | ivy28122966@gmail.com | 已發
+
