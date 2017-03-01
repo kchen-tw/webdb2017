@@ -3,7 +3,7 @@
         "splitter",
         "anchors",
         "header",
-        "toggle2",
+        "toggle-headers",
         "local-pagefooter"
     ],
     "pluginsConfig": {
