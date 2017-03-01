@@ -5,7 +5,7 @@
   * [修課名單](Student.md)
   * [上課投影片](Lecture.md)
 * [利用 NodeSchool 自我學習](NodeSchool.md)
-  * [1. HELLO WORLD](NodeSchool/hello_world.md.md)
+  * [1. HELLO WORLD](NodeSchool/hello_world.md)
   * [2. BABY STEPS](NodeSchool/baby_steps.md)
   * [3. MY FIRST I/O!](NodeSchool/my_first_io.md)
   * [4. MY FIRST ASYNC I/O!](NodeSchool/my_first_async_io.md)
