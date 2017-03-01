@@ -1,17 +1,13 @@
 {
     "plugins": [
+        "toggle2",
         "splitter",
         "prism",
         "-highlight",
         "anchors",
         "header",
         "local-pagefooter",
-        "editlink",
-        "sitemap",
-        "section",
-        "toggle-headers",
-        "ungrey",
-        "expandable-chapters-small"
+        "toggle-headers"
     ],
     "pluginsConfig": {
         "layout": {
@@ -23,9 +19,5 @@
             "modify_label": "該文件修訂時間：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
-        "section": {
-            "addClass": true,
-            "className": "tsection"
-        }
     }
 }
