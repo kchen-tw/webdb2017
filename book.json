@@ -4,14 +4,15 @@
         "anchors",
         "header",
         "toggle2",
-        "tbfed-pagefooter"
+        "local-pagefooter"
     ],
     "pluginsConfig": {
         "layout": {
             "headerPath": "layouts/header.html"
         },
-        "tbfed-pagefooter": {
+        "local-pagefooter": {
             "copyright":"&copy kChen",
+            "islocal" : true,
             "modify_label": "該文件修訂時間：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
