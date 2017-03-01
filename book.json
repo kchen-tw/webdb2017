@@ -2,7 +2,6 @@
     "plugins": [
         "anchors",
         "header",
-        "disqus",
         "tbfed-pagefooter"
     ],
     "pluginsConfig": {
