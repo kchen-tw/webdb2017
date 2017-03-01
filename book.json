@@ -4,6 +4,7 @@
         "anchors",
         "header",
         "local-pagefooter",
+        "editlink",
         "section",
         "toggle-headers",
         "ungrey",
