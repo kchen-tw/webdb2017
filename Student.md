@@ -28,7 +28,9 @@
 22 | R05944032 | 陳善文 | tp6g04jp6 | tp6g04jp6@gmail.com | 已發
 23 | B02611002 | 周昱達 | choznerol | lawrencechou1024@hotmail.com | 已發
 24 | B03501044 | 謝伯徽 | Jeffery-Sheih	 | jeffery85616@gmail.com | 已發
-25 | R04943142 | 劉懿萱 | ubenz55555 | ubenz555@gmail.com| 已發
+25 | R04943142 | 劉懿萱 | ubenz55555 | ubenz555@gmail.com | 已發
+26 | R05942033 | 林柏呈 | frank555076 | frank555076@hotmail.com | 已發
+
 
 
 
