@@ -1,4 +1,4 @@
-![![](/assets/github_open_in_explorer.pn](/assets/open_with_code.png)g)# 在 Azure 上建立 Web應用程式
+# 在 Azure 上建立 Web應用程式
 
 ## 新增 AzureWebApp 專案
 
