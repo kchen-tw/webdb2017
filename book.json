@@ -2,6 +2,7 @@
     "plugins": [
         "anchors",
         "header",
+        "toggle-headers",
         "tbfed-pagefooter"
     ],
     "pluginsConfig": {
