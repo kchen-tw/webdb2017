@@ -6,11 +6,11 @@
 * 在 GitHub 建立一個新的 repository ，並且命名為 AzureWebApp
 * 利用 GitHub Desktop 同步到本機端
 * 滑鼠在 AzureWebApp 按下右鍵，以檔案總管方式開啟
-![|medium](/assets/github_open_in_explorer.png) 
+![|medium](/assets/github_open_in_explorer.png | width=100) 
 
 ### 本機端 Visual Studio Code
 #### 在檔案總管空白處按右鍵，選 `Open with Code`
-![|medium](/assets/open_with_code.png)
+![](/assets/open_with_code.png | width=100)
 
 #### 建立一個 server.js 內容如下
 
