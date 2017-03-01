@@ -3,10 +3,11 @@
         "splitter",
         "anchors",
         "header",
+        "local-pagefooter",
+        "section",
         "toggle-headers",
         "ungrey",
-        "local-pagefooter",
-        "section"
+        "expandable-chapters-small"
     ],
     "pluginsConfig": {
         "layout": {
