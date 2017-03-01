@@ -4,8 +4,7 @@
         "anchors",
         "header",
         "toggle2",
-        "local-pagefooter",
-        "otherlink"
+        "local-pagefooter"
     ],
     "pluginsConfig": {
         "layout": {
