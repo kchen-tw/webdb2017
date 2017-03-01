@@ -12,29 +12,29 @@ var ext = '.' + process.argv[3];
 
 // 讀取檔案，使用非同步函式
 fs.readdir(dir, (err, files) => {
-if (err) console.error(err);
-var length = files && files.length;
-if(!length) {
-return;
-}
+    if (err) console.error(err);
+    var length = files && files.length;
+    if (!length) {
+        return;
+    }
 
-var result = [];
+    var result = [];
 
-// for(var i=0; i<length; i++) {
-// var filePath = files[i];
-// if(path.extname(filePath) === ext) {
-// result.push(filePath);
-// }
-// }
+    // for(var i=0; i<length; i++) {
+    //      var filePath = files[i];
+    //      if(path.extname(filePath) === ext) {
+    //          result.push(filePath);
+    //      }
+    // }
 
-// 另一種寫法
-files.forEach((file, index) => {
-if(path.extname(file) === ext) {
-result.push(file);
-}
-});
+    // 另一種寫法
+    files.forEach((file, index) => {
+        if (path.extname(file) === ext) {
+            result.push(file);
+        }
+    });
 
-console.log(result.join('\n'));
+    console.log(result.join('\n'));
 });
 ```
 
