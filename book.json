@@ -1,8 +1,5 @@
 {
     "plugins": [
-        "splitter",
-        "toggle-headers",
-        "indexes",
         "anchors",
         "header",
         "disqus",
