@@ -1,8 +1,9 @@
 {
     "plugins": [
+        "splitter",
         "anchors",
         "header",
-        "toggle-headers",
+        "toggle2",
         "tbfed-pagefooter"
     ],
     "pluginsConfig": {
