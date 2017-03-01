@@ -1,4 +1,4 @@
-# 在 Azure 上建立 Web應用程式
+![![](/assets/github_open_in_explorer.pn](/assets/open_with_code.png)g)# 在 Azure 上建立 Web應用程式
 
 ## 新增 AzureWebApp 專案
 
@@ -9,7 +9,8 @@
 ![](/assets/github_open_in_explorer.png) 
 
 ### 本機端 Visual Studio Code
-#### 在檔案總管空白處按右鍵，選 `Open with Code`![](/assets/open_with_code.png)
+#### 在檔案總管空白處按右鍵，選 `Open with Code`
+![](/assets/open_with_code.png)
 
 #### 建立一個 server.js 內容如下
 
