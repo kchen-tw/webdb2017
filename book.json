@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "toggle2",
         "splitter",
         "prism",
         "-highlight",
