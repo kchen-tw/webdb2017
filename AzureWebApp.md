@@ -10,7 +10,7 @@
 
 ### 本機端 Visual Studio Code
 #### 在檔案總管空白處按右鍵，選 `Open with Code`
-![](/assets/open_with_code.png)
+![|medium](/assets/open_with_code.png)
 
 #### 建立一個 server.js 內容如下
 
