@@ -4,6 +4,7 @@
         "anchors",
         "header",
         "toggle-headers",
+        "ungrey",
         "local-pagefooter"
     ],
     "pluginsConfig": {
