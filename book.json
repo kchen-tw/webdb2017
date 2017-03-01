@@ -5,7 +5,8 @@
         "header",
         "toggle-headers",
         "ungrey",
-        "local-pagefooter"
+        "local-pagefooter",
+        "section"
     ],
     "pluginsConfig": {
         "layout": {
@@ -16,6 +17,10 @@
             "islocal" : true,
             "modify_label": "該文件修訂時間：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "section": {
+            "addClass": true,
+            "className": "tsection"
         }
     }
 }
