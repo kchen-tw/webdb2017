@@ -17,7 +17,11 @@
             "islocal" : true,
             "modify_label": "該文件修訂時間：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "prism": {
+            "css": [
+                "prismjs/themes/prism-solarizedlight.css"
+            ]
         }
-
     }
 }
