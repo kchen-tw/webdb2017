@@ -21,7 +21,7 @@
         },
         "page-treeview": {
             "style": "markdown",
-            "copyright": "Copyright &#169; aleen42",
+            "copyright": "",
             "minHeaderCount": "1",
             "minHeaderDeep": "1"
         }
