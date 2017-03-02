@@ -1,10 +1,5 @@
 {
     "plugins": [
-        "karah-toc",
-        "toc-for-3",
-        "simple-page-toc",
-        "navigator",
-        "betterpagetitles",
         "splitter",
         "prism",
         "-highlight",
