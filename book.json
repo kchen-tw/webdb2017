@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "toc-for-3"
+        "toc-for-3",
         "simple-page-toc",
         "navigator",
         "betterpagetitles",
