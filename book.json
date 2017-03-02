@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "toggle2",
+        "page-treeview",
         "splitter",
         "prism",
         "-highlight",
