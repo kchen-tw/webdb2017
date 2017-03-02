@@ -1,5 +1,6 @@
 {
     "plugins": [
+        "betterpagetitles",
         "splitter",
         "prism",
         "-highlight",
