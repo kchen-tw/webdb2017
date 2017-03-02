@@ -18,6 +18,12 @@
             "islocal" : true,
             "modify_label": "該文件修訂時間：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "page-treeview": {
+            "style": "markdown",
+            "copyright": "Copyright &#169; aleen42",
+            "minHeaderCount": "1",
+            "minHeaderDeep": "1"
         }
     }
 }
