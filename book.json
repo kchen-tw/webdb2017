@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "top-menu",
         "splitter",
         "prism",
         "-highlight",
