@@ -20,7 +20,7 @@
         },
         "prism": {
             "css": [
-                "prismjs/themes/prism-solarizedlight.css"
+                "prism-themes/themes/prism-atom-dark.css"
             ]
         }
     }
