@@ -34,4 +34,5 @@ console.log('Server running on port ' + port);
 
 #### 將 AzureWebApp 同步到 
 
+請參考社團直播影片
 
