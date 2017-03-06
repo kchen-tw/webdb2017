@@ -1,18 +1,8 @@
-# 在 Azure 上建立 Web應用程式
+# 在 GitHub 中新增 AzureWebApp 專案
 
-## 新增 AzureWebApp 專案
-
-### 雲端 GitHub 
 * 在 GitHub 建立一個新的 repository ，並且命名為 AzureWebApp
 * 利用 GitHub Desktop 同步到本機端
-* 滑鼠在 AzureWebApp 按下右鍵，以檔案總管方式開啟
-![|medium](/assets/github_open_in_explorer.png) 
-
-### 本機端 Visual Studio Code
-#### 在檔案總管空白處按右鍵，選 `Open with Code`
-![](/assets/open_with_code.png)
-
-#### 建立一個 server.js 內容如下
+* 建立一個 server.js 內容如下
 
 ```js
 // 引用 http 模組
@@ -32,7 +22,9 @@ app.listen(port);
 console.log('Server running on port ' + port);
 ```
 
-#### 將 AzureWebApp 同步到 
+* 在 AzureWebApp 同步到 GitHub
+
+# 在 Azure 上建立 Web應用程式
 
 請參考社團直播影片
 
