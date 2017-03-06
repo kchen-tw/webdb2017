@@ -5,17 +5,4 @@
   * [修課名單](Student.md)
   * [上課投影片](Lecture.md)
 * [利用 NodeSchool 自我學習](NodeSchool.md)
-  * [1. HELLO WORLD](NodeSchool/hello_world.md)
-  * [2. BABY STEPS](NodeSchool/baby_steps.md)
-  * [3. MY FIRST I/O!](NodeSchool/my_first_io.md)
-  * [4. MY FIRST ASYNC I/O!](NodeSchool/my_first_async_io.md)
-  * [5. FILTERED LS](NodeSchool/filtered_ls.md)
-  * [6. MAKE IT MODULAR](NodeSchool/make_it_modular.md)
-  * 7. HTTP CLIENT
-  * 8. HTTP COLLECT
-  * 9. JUGGLING ASYNC
-  * 10. TIME SERVER
-  * [11. HTTP FILE SERVER](NodeSchool/http_file_server.md)
-  * [12. HTTP UPPERCASERER](NodeSchool/http_uppercaserer.md)
-  * [13. HTTP JSON API SERVER ](NodeSchool/http_json_api_server.md)
 * [在 Azure 上建立 Web應用程式](AzureWebApp.md)
