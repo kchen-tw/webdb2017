@@ -13,16 +13,17 @@ var port = process.env.PORT || 1337;
 
 // 建立一個 http server
 var app = http.createServer(function (req, res) {
+    // 回覆 200
     res.writeHead(200, { 'Content-Type': 'text/plain' });
     res.end('Hello World\n');
 })
 
 // 啟動並等待連接
 app.listen(port);
-console.log('Server running on port ' + port);
+console.log('Server running at http://127.0.0.1:' + port);
 ```
 
-* 在 AzureWebApp 同步到 GitHub
+* 將 AzureWebApp 同步到 GitHub
 
 # 在 Azure 上建立 Web應用程式
 
