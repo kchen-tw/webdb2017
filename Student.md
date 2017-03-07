@@ -35,8 +35,9 @@
 ---
 
 ## 02班
-序號 | 學      號 | 姓名  |Github 帳號 | Azure 帳號 | 修課
+序號 | 學 號 | 姓名 |Github 帳號 | Azure 帳號 | 修課
 :--:|:----------:|:----:|:----:|:--------:|:--------:| :---:
-01 | B03607036 | 張如嫻 | JoyChal | joych201517@gmail.com | 已發
-02 | R05525093 | 楊婷如 | ivy28122966 | ivy28122966@gmail.com | 已發
+01 | B03607036 | 張如嫻 | JoyChal     | joych201517@gmail.com | 已選
+02 | B02901069 | 林子翔 | ivy28122966 | ivy28122966@gmail.com | 已選
+03 | B02901117 | 蘇健智 | jerejesse   | jerejesse@hotmail.com | 已選
 
