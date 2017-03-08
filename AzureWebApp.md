@@ -1,4 +1,4 @@
-    # 在 GitHub 中新增 AzureWebApp 專案
+# 在 GitHub 中新增 AzureWebApp 專案
 
 * 在 GitHub 建立一個新的 repository ，並且命名為 AzureWebApp
 * 利用 GitHub Desktop 同步到本機端
