@@ -27,7 +27,7 @@ console.log('Server running at http://127.0.0.1:' + port);
 
 # 在 Azure 上建立 Web應用程式
 
-請參考社團直播影片或下方步驟圖
+請參考[社團直播影片](https://goo.gl/62cUzu)或下方步驟圖
 
 ### **先確認權限：**
 
