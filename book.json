@@ -5,10 +5,22 @@
         "-highlight",
         "anchors",
         "header",
+        "favicon", 
         "local-pagefooter",
+        "expandable-chapters-small",
+        "ace",
         "toggle-headers"
     ],
     "pluginsConfig": {
+        "favicon": {
+            "shortcut": "assets/favicon.png",
+            "bookmark": "assets/favicon.png",
+            "appleTouch": "assets/favicon.png",
+            "appleTouchMore": {
+                "120x120": "assets/favicon.png",
+                "180x180": "assets/favicon.png"
+            }
+        },
         "layout": {
             "headerPath": "layouts/header.html"
         },
