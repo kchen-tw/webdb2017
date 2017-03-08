@@ -4,6 +4,7 @@
         "prism",
         "-highlight",
         "anchors",
+        "anchor-navigation-ex",
         "header",
         "favicon", 
         "local-pagefooter",
@@ -12,6 +13,13 @@
         "toggle-headers"
     ],
     "pluginsConfig": {
+        "anchor-navigation-ex": {
+            "isRewritePageTitle": true,
+            "isShowTocTitleIcon": true,
+            "tocLevel1Icon": "fa fa-hand-o-right",
+            "tocLevel2Icon": "fa fa-hand-o-right",
+            "tocLevel3Icon": "fa fa-hand-o-right"
+        },
         "favicon": {
             "shortcut": "assets/favicon.png",
             "bookmark": "assets/favicon.png",
