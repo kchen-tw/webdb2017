@@ -4,11 +4,31 @@
         "prism",
         "-highlight",
         "anchors",
+        "anchor-navigation-ex",
         "header",
+        "favicon", 
         "local-pagefooter",
+        "expandable-chapters-small",
+        "ace",
         "toggle-headers"
     ],
     "pluginsConfig": {
+        "anchor-navigation-ex": {
+            "isRewritePageTitle": true,
+            "isShowTocTitleIcon": true,
+            "tocLevel1Icon": "fa fa-hand-o-right",
+            "tocLevel2Icon": "fa fa-hand-o-right",
+            "tocLevel3Icon": "fa fa-hand-o-right"
+        },
+        "favicon": {
+            "shortcut": "assets/favicon.png",
+            "bookmark": "assets/favicon.png",
+            "appleTouch": "assets/favicon.png",
+            "appleTouchMore": {
+                "120x120": "assets/favicon.png",
+                "180x180": "assets/favicon.png"
+            }
+        },
         "layout": {
             "headerPath": "layouts/header.html"
         },
