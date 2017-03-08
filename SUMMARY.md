@@ -5,4 +5,8 @@
   * [修課名單](Student.md)
   * [上課投影片](Lecture.md)
 * [利用 NodeSchool 自我學習](NodeSchool.md)
-* [在 Azure 上建立 Web應用程式](AzureWebApp.md)
+* Web應用程式
+  * [在 Azure 上建立 Web應用程式](AzureWebApp.md)
+  * [靜態網頁伺服器](http-server.md)
+
+
