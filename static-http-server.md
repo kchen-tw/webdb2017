@@ -56,5 +56,7 @@ var server = http.createServer(function (req, res) {
 
 // 啟動並等待連接
 server.listen(port);
-console.log('Server running at http://127.0.0.1:/' + port);
+console.log('Server running at http://127.0.0.1:' + port);
 ```
+
+* GitHub 範例
