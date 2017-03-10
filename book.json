@@ -9,7 +9,6 @@
         "favicon", 
         "local-pagefooter",
         "expandable-chapters-small",
-        "ace",
         "toggle-headers"
     ],
     "pluginsConfig": {
