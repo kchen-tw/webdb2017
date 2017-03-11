@@ -9,7 +9,7 @@
 授課老師 | 陳琨 (kchen [at] csie.org)
 課程助教 | 夏維良 (r05922075 [at] ntu.edu.tw) <br> 林修平 (twedusuck [at] gmail.com) <br> 陳宣毅 (r03126005 [at] ntu.edu.tw)
 臉書社團 | https://www.facebook.com/groups/kchen.club
-讀書會 | 星期五晚上 (教室會在 3月6日公告)
+共學同空間 | 星期二 19:00-21:00 普通505 <br>星期五 19:00-21:00 博雅302
 
 
 ---
