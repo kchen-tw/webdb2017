@@ -1,3 +1,36 @@
+# 判斷檔案是否存在
+
+```js
+// 引用 File System 模組
+var fs = require('fs');
+
+// __dirname 是 Nodejs 預設的程式執行路徑
+fs.exists(__dirname + '/data.txt', function (exists) {
+    if (exists) {
+        console.log('data.txt exists!');
+    } else {
+        console.log('data.txt doesn\'t exists!');
+    }
+});
+```
+
+
+# 讀取檔案
+
+```js
+// 讀取檔案
+fs.readFile(__dirname + '/data.txt', function(err, content) {
+    if (err) {
+        console.log('Failed to read');
+        return;
+    }
+
+    // 將檔案內容印出
+    console.log(content);
+});
+```
+
+
 # 靜態網頁伺服器
 
 ```js
