@@ -4,7 +4,7 @@
  :--: |  ---
  第1週 | [課程介紹][Ch00] <br> [Node.js介紹][Ch01-1] <br> [Visual Studio Code 的使用][Ch01-2] <br> [GitHub 使用][Ch01-3]
  第2週 | [Node.js語法練習][Ch02-1]<br>利用 Node.js撰寫簡單的靜態網頁伺服器<br>如何將 Web 應用程式佈署到 Azure 主機上 
- 第3週 | [瞭解 NoSQL 資料庫][Ch03-1]<br>資料庫的四大基本功能：新增、查詢、修改和刪除(CRUD)<br>如何將 MongoDB 發佈至 Azure主機上 的 DocumentDB 
+ 第3週 | [瞭解 NoSQL 資料庫1][Ch03-1]<br>[瞭解 NoSQL 資料庫2][Ch03-2]<br>資料庫的四大基本功能：新增、查詢、修改和刪除(CRUD)<br>如何將 MongoDB 發佈至 Azure主機上 的 DocumentDB 
  第4週 | 以記帳本為例開發 Web API - 1  
  第5週 | 以記帳本為例開發 Web API - 2  
  第6週 | 期末報告 
@@ -15,4 +15,5 @@
 [Ch01-3]: https://goo.gl/pF0Opd
 [Ch02-1]: https://goo.gl/T3Vep3
 [Ch03-1]: https://goo.gl/l1rij0
+[Ch03-2]: https://goo.gl/cSCAhL
 
