@@ -1,3 +1,11 @@
+## 2017-03-15
+
+各組練習用IP列表
+
+https://goo.gl/VctQ0V
+
+---
+
 # 2017-03-08
 分組表單填寫：
 https://goo.gl/EGfQSx
