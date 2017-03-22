@@ -1,8 +1,9 @@
 # Summary
 
 * [網站資料庫程式設計](README.md)
-  * [課程公告](Announcement.md)
-  * [修課名單](Student.md)
+* [課程公告](Announcement.md)
+* [修課名單](Student.md)
+* [作業](Homework.md)
 <!--
   * [上課投影片](Lecture.md)
 -->
