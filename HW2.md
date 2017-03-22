@@ -26,6 +26,8 @@
 
 * 在 Azure 主機新增一台 mongoDB 並記錄其連接設定
 * 連接 `140.112.28.194` 主機 
+* database 為 `homework`
+* collection 為 `hw2`
 * 根據你的學號或姓名，找出其對應 document
 * 並將其Azure的連接設定更新 
 
