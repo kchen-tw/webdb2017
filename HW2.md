@@ -47,3 +47,8 @@
 * <font color="red">2017-03-25 23:59</font>
 * 遲交一天分數乘上0.9，依此類推
 
+## 參考資料
+
+* 官網資料：https://docs.mongodb.com/manual/crud/
+* 中文資料：http://www.runoob.com/mongodb/mongodb-tutorial.html
+
