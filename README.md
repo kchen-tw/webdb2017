@@ -44,7 +44,7 @@ MongoDB 是種 NoSQL 資料庫，將資料儲存為一個文件，資料結構�
 ---
 # 每週進度
 
-週次 | 投影片
+週次 | 說明
 :--: | ---
 第1週 | 課程介紹<br>Node.js介紹<br>Visual Studio Code 的使用<br> GitHub 使用
 第2週 | Node.js語法練習<br>如何將 Web 應用程式佈署到 Azure 主機上
