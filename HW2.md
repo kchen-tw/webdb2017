@@ -33,7 +33,7 @@
 
 ```json
 {
-    "sid" : "BXXXXXXXX",
+    "student_id" : "BXXXXXXXX",
     "name" : "XXX",
     "azure_url" : "",
     "azure_port" : "",
