@@ -4,8 +4,8 @@
 * [課程公告](Announcement.md)
 * [修課名單](Student.md)
 * [作業](Homework.md)
-  *[作業一](HW1.md)
-  *[作業二](HW2.md)
+  * [作業一](HW1.md)
+  * [作業二](HW2.md)
 
 <!--
   * [上課投影片](Lecture.md)
