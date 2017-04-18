@@ -1,11 +1,7 @@
 # Summary
 
 * [網站資料庫程式設計](README.md)
-* [課程公告](Announcement.md)
-<!--
-* [修課名單](Student.md)
--->
-* [班別] (class.md)
+* [班別](class.md)
 * [作業](Homework.md)
 * [利用 NodeSchool 自我學習](NodeSchool.md)
 * [Web應用程式](web.md)
