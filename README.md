@@ -53,7 +53,7 @@ MongoDB 是種 NoSQL 資料庫，將資料儲存為一個文件，資料結構�
 第3週 | 瞭解Web Server的運作<br>[利用 Node.js撰寫簡單的靜態網頁伺服器](static-http-server.md)<br>
 第4週 | 瞭解 NoSQL 資料庫<br>資料庫的四大基本功能：新增、查詢、修改和刪除(CRUD)<br>如何將 MongoDB 發佈至 Azure主機上 的 DocumentDB 
 第5週 | [Node.js 與 MongoDB](NodejsMongoDB.md)
-第6週 | 期末報告
+第6週 | CS+X 期末展計畫書
 
 ---
 

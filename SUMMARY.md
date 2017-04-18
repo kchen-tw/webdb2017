@@ -4,6 +4,7 @@
 * [各班別資料](class.md)
   * [01班 公告](01/announcement.md)
   * [01班 作業](01/homework.md)
+  * [01班 CS+X期末計畫書](01/proposal.md)
   * [02班 公告](01/announcement.md)
   * [02班 作業]()
 * [教學資料](lecture.md)
