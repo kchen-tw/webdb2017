@@ -11,6 +11,6 @@
 07|b03502100 徐子秦	| https://goo.gl/jck2vo
 08|ntust_b10207146 陳柏昱(旁聽) | 無
 09|R04323035 郭鎮宇	| https://goo.gl/hOAqWP			
-10|B04705021 沈品耀<br>B04705019 林楷翊<br>B04705039 何昱辰 | [網頁](assets/G10.html)
+10|B04705021 沈品耀<br>B04705019 林楷翊<br>B04705039 何昱辰 | [網頁](https://kaiyee0.github.io/movie_master/proposal.html)
 11|R05942033 林柏呈	| https://goo.gl/4GSVAh
 12|R04522839 徐广昊	| https://goo.gl/j9ZRYr
