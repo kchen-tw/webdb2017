@@ -8,6 +8,6 @@
 
 * [課程公告](02/announcement.md)
 * [作業](02/homework.md)
-* CS+X期末計畫書
+* [CS+X期末計畫書](02/proposal.md)
 * 成績
 
