@@ -7,5 +7,5 @@
 PS: 請盡量發揮創意，本次作業的目的在於了解同學們的HTML+CSS+JavaScript的能力。
 
 * 作業繳交：(尚建立中)
-* 作業截止日：<font color="red">2017-05-5 23:00</font>
+* 作業截止日：<font color="red">2017-05-05 23:00</font>
 
