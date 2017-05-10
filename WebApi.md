@@ -122,5 +122,6 @@ http://127.0.0.1:1337/insert/student/s001/李四
 
 ## GitHub 參考資料
 
-* WebApi (https://github.com/kchen-tw/webdb2017-webapi)
-* HttpServer (https://github.com/kchen-tw/webdb2017-httpserver)
+* WebApi範例 (https://github.com/kchen-tw/webdb2017-webapi)
+* HttpServer範例 (https://github.com/kchen-tw/webdb2017-httpserver)
+* MongoDB範例 (https://github.com/kchen-tw/webdb2017-mongodb)
