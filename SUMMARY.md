@@ -7,6 +7,7 @@
   * [01班 CS+X期末計畫書](01/proposal.md)
   * [02班 公告](02/announcement.md)
   * [02班 作業](02/homework.md)
+  * [02班 CS+X期末計畫書](02/proposal.md)
 * [教學資料](lecture.md)
   * [利用 NodeSchool 自我學習](NodeSchool.md)
   * [Web應用程式](web.md)
